@@ -27,3 +27,20 @@ C:\Users\unkown\Documents\Visual Studio 2010\Projects\SoftEng_Project\SoftEng_Pr
 C:\Users\unkown\Documents\Visual Studio 2010\Projects\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.exe.licenses
 C:\Users\unkown\Documents\Visual Studio 2010\Projects\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.exe
 C:\Users\unkown\Documents\Visual Studio 2010\Projects\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.pdb
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\bin\Debug\SoftEng_Project.exe.config
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.exe
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.pdb
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.csprojResolveAssemblyReference.cache
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.MyConnection.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.Properties.Resources.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.SplashScreen1.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.WaitForm1.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.XInstrProfForm.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.XLoginForm.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.XSignupForm.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.XStudProfForm.resources
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.csproj.GenerateResource.Cache
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\obj\x86\Debug\SoftEng_Project.exe.licenses
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\bin\Debug\SoftEng_Project.exe
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\bin\Debug\SoftEng_Project.pdb
+G:\OneDrive\CEA-FAC\CPE 422 - Software Engineering\BSCpE 4A, CPE 422, S.Y. 19-20\PORTFOLIO\01-GARGARCURSOL\SoftEng_Project\SoftEng_Project\bin\Debug\MySql.Data.dll
